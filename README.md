@@ -1,11 +1,7 @@
 # numbers-letters
 A cheat mode
 
-A cheat code for the famous game numbers & letters.
+A cheat code for the numbers part of the famous tv game show number and letters
 
-2 parts:
-
-1- numbers: we input the code with a serie of numbers and the result.
-            Then the code find a way to get to the result (or as near as possible if impossible) with the given numbers.
-            
-2- letters: we input a serie of letters and the code find the longest possible word.
+• we input the code with a serie of6 numbers and a result. Then the code finds a way to get to the result (or as near as possible if impossible) with the given numbers.
+It then displays how to get to it.
